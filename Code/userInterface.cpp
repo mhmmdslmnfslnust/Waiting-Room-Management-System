@@ -9,7 +9,7 @@ void displayMenu() {
     cout << "\n=== Hospital Waiting Room Management System ===" << endl;
     cout << "1. Register Patient" << endl;
     cout << "2. Serve Patient" << endl;
-    cout << "3. Show All Patients (Sorted by Name)" << endl;
+    cout << "3. Show All Patients" << endl;
     cout << "4. Cancel All Appointments" << endl;
     cout << "5. Can Doctor Go Home?" << endl;
     cout << "6. Exit" << endl;
